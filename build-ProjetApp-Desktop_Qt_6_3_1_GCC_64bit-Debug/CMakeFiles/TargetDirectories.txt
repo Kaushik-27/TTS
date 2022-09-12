@@ -1,0 +1,9 @@
+/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/ProjetApp.dir
+/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/ProjetApp_autogen_timestamp_deps.dir
+/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/ProjetApp_autogen.dir
