@@ -1,0 +1,11 @@
+# ninja log v5
+1	29	0	/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Release/CMakeFiles/cmake.verify_globs	4e98aa57fb0e4d3e
+1	503	1667143572689977728	ProjetApp_autogen/timestamp	253a2e6cf7e98734
+1	503	1667143572689977728	ProjetApp_autogen/mocs_compilation.cpp	253a2e6cf7e98734
+1	503	1667143572689977728	/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Release/ProjetApp_autogen/timestamp	253a2e6cf7e98734
+1	503	1667143572689977728	/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Release/ProjetApp_autogen/mocs_compilation.cpp	253a2e6cf7e98734
+1	30	0	/home/kaushik/ProjectApp/build-ProjetApp-Desktop_Qt_6_3_1_GCC_64bit-Release/CMakeFiles/cmake.verify_globs	4e98aa57fb0e4d3e
+7	8011	1667145615406513544	CMakeFiles/ProjetApp.dir/main.cpp.o	cb0cb6872f8d22ce
+7	8659	1667145616050512809	CMakeFiles/ProjetApp.dir/ProjetApp_autogen/mocs_compilation.cpp.o	b03291b2cda0a0e5
+8	9015	1667145616410512398	CMakeFiles/ProjetApp.dir/mainwindow.cpp.o	c09672562bb113b6
+9016	10666	1667145618058510518	ProjetApp	bc84437f0b8b0736
